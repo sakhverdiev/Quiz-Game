@@ -1,0 +1,8 @@
+﻿  Quiz.cpp
+C:\Users\Senan\Desktop\Quiz-game\Quiz.h(114,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Senan\Desktop\Quiz-game\Login.h(87): warning C4715: 'logIn': not all control paths return a value
+  Quiz.vcxproj -> C:\Users\Senan\Desktop\Quiz-game\x64\Debug\Quiz.exe

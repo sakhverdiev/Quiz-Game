@@ -1,0 +1,4 @@
+C:\Users\Siya\Desktop\Step\Quiz\x64\Debug\Quiz.exe
+C:\Users\Senan\source\repos\Quiz-master\x64\Debug\Quiz.exe
+C:\Users\Senan\source\repos\Quiz-game\x64\Debug\Quiz.exe
+C:\Users\Senan\Desktop\Quiz-game\x64\Debug\Quiz.exe
